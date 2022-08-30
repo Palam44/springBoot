@@ -1,6 +1,5 @@
 package com.example.spring.dao;
 
-
 import com.example.spring.model.User;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,6 +1,5 @@
 package com.example.spring.service;
 
-
 import com.example.spring.model.User;
 import org.springframework.stereotype.Component;
 
